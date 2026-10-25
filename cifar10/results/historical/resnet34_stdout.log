@@ -1,0 +1,129 @@
+Using device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+
+ResNet34-CIFAR10 shape table:
+------------------------------------------------------------------------------
+Layer            Input shape                  Output shape                
+------------------------------------------------------------------------------
+stem             (128, 3, 32, 32)             (128, 64, 32, 32)           
+layer1           (128, 64, 32, 32)            (128, 64, 32, 32)           
+layer2           (128, 64, 32, 32)            (128, 128, 16, 16)          
+layer3           (128, 128, 16, 16)           (128, 256, 8, 8)            
+layer4           (128, 256, 8, 8)             (128, 512, 4, 4)            
+avgpool          (128, 512, 4, 4)             (128, 512, 1, 1)            
+flatten          (128, 512, 1, 1)             (128, 512)                  
+fc               (128, 512)                   (128, 10)                   
+------------------------------------------------------------------------------
+Epoch 001 | batch 0100 | loss 3.0116 | acc 10.32%
+Epoch 001 | batch 0200 | loss 2.5714 | acc 14.48%
+Epoch 001 | batch 0300 | loss 2.3612 | acc 18.55%
+Epoch 001 summary | lr 0.10000 | train loss 2.2491 | train acc 21.29% | test loss 1.8273 | test acc 33.47%
+New best model found: 33.47% (model saving disabled)
+Epoch 002 | batch 0100 | loss 1.8117 | acc 32.27%
+Epoch 002 | batch 0200 | loss 1.7812 | acc 33.60%
+Epoch 002 | batch 0300 | loss 1.7508 | acc 34.99%
+Epoch 002 summary | lr 0.10000 | train loss 1.7249 | train acc 36.02% | test loss 1.6114 | test acc 40.11%
+New best model found: 40.11% (model saving disabled)
+Epoch 003 | batch 0100 | loss 1.5843 | acc 41.99%
+Epoch 003 | batch 0200 | loss 1.5685 | acc 41.88%
+Epoch 003 | batch 0300 | loss 1.5442 | acc 42.80%
+Epoch 003 summary | lr 0.10000 | train loss 1.5185 | train acc 43.79% | test loss 1.3923 | test acc 49.23%
+New best model found: 49.23% (model saving disabled)
+Epoch 004 | batch 0100 | loss 1.3918 | acc 48.67%
+Epoch 004 | batch 0200 | loss 1.3594 | acc 50.04%
+Epoch 004 | batch 0300 | loss 1.3275 | acc 51.38%
+Epoch 004 summary | lr 0.10000 | train loss 1.2972 | train acc 52.71% | test loss 1.1956 | test acc 57.00%
+New best model found: 57.00% (model saving disabled)
+Epoch 005 | batch 0100 | loss 1.1181 | acc 59.50%
+Epoch 005 | batch 0200 | loss 1.1062 | acc 60.26%
+Epoch 005 | batch 0300 | loss 1.0766 | acc 61.41%
+Epoch 005 summary | lr 0.10000 | train loss 1.0537 | train acc 62.32% | test loss 1.2982 | test acc 58.33%
+New best model found: 58.33% (model saving disabled)
+Epoch 006 | batch 0100 | loss 0.9261 | acc 67.15%
+Epoch 006 | batch 0200 | loss 0.8944 | acc 68.55%
+Epoch 006 | batch 0300 | loss 0.8745 | acc 69.26%
+Epoch 006 summary | lr 0.10000 | train loss 0.8552 | train acc 70.00% | test loss 1.0365 | test acc 66.95%
+New best model found: 66.95% (model saving disabled)
+Epoch 007 | batch 0100 | loss 0.7617 | acc 73.33%
+Epoch 007 | batch 0200 | loss 0.7561 | acc 73.80%
+Epoch 007 | batch 0300 | loss 0.7393 | acc 74.33%
+Epoch 007 summary | lr 0.10000 | train loss 0.7310 | train acc 74.60% | test loss 0.7150 | test acc 75.26%
+New best model found: 75.26% (model saving disabled)
+Epoch 008 | batch 0100 | loss 0.6599 | acc 77.01%
+Epoch 008 | batch 0200 | loss 0.6607 | acc 77.07%
+Epoch 008 | batch 0300 | loss 0.6590 | acc 77.22%
+Epoch 008 summary | lr 0.10000 | train loss 0.6513 | train acc 77.53% | test loss 0.8406 | test acc 72.00%
+Epoch 009 | batch 0100 | loss 0.6014 | acc 78.98%
+Epoch 009 | batch 0200 | loss 0.5987 | acc 79.16%
+Epoch 009 | batch 0300 | loss 0.6014 | acc 79.20%
+Epoch 009 summary | lr 0.10000 | train loss 0.5972 | train acc 79.37% | test loss 0.6560 | test acc 78.20%
+New best model found: 78.20% (model saving disabled)
+Epoch 010 | batch 0100 | loss 0.5561 | acc 80.89%
+Epoch 010 | batch 0200 | loss 0.5590 | acc 80.52%
+Epoch 010 | batch 0300 | loss 0.5610 | acc 80.53%
+Epoch 010 summary | lr 0.10000 | train loss 0.5595 | train acc 80.62% | test loss 0.6702 | test acc 76.66%
+Epoch 011 | batch 0100 | loss 0.4256 | acc 85.63%
+Epoch 011 | batch 0200 | loss 0.4025 | acc 86.35%
+Epoch 011 | batch 0300 | loss 0.3879 | acc 86.78%
+Epoch 011 summary | lr 0.01000 | train loss 0.3781 | train acc 87.10% | test loss 0.3851 | test acc 87.14%
+New best model found: 87.14% (model saving disabled)
+Epoch 012 | batch 0100 | loss 0.3384 | acc 88.52%
+Epoch 012 | batch 0200 | loss 0.3331 | acc 88.61%
+Epoch 012 | batch 0300 | loss 0.3268 | acc 88.85%
+Epoch 012 summary | lr 0.01000 | train loss 0.3206 | train acc 89.01% | test loss 0.3634 | test acc 87.68%
+New best model found: 87.68% (model saving disabled)
+Epoch 013 | batch 0100 | loss 0.2945 | acc 89.91%
+Epoch 013 | batch 0200 | loss 0.2985 | acc 89.74%
+Epoch 013 | batch 0300 | loss 0.2955 | acc 89.79%
+Epoch 013 summary | lr 0.01000 | train loss 0.2940 | train acc 89.88% | test loss 0.3483 | test acc 88.03%
+New best model found: 88.03% (model saving disabled)
+Epoch 014 | batch 0100 | loss 0.2730 | acc 90.41%
+Epoch 014 | batch 0200 | loss 0.2721 | acc 90.58%
+Epoch 014 | batch 0300 | loss 0.2709 | acc 90.65%
+Epoch 014 summary | lr 0.01000 | train loss 0.2714 | train acc 90.64% | test loss 0.3420 | test acc 88.41%
+New best model found: 88.41% (model saving disabled)
+Epoch 015 | batch 0100 | loss 0.2448 | acc 91.79%
+Epoch 015 | batch 0200 | loss 0.2509 | acc 91.38%
+Epoch 015 | batch 0300 | loss 0.2532 | acc 91.34%
+Epoch 015 summary | lr 0.01000 | train loss 0.2544 | train acc 91.21% | test loss 0.3451 | test acc 88.43%
+New best model found: 88.43% (model saving disabled)
+Epoch 016 | batch 0100 | loss 0.2235 | acc 92.34%
+Epoch 016 | batch 0200 | loss 0.2190 | acc 92.60%
+Epoch 016 | batch 0300 | loss 0.2194 | acc 92.56%
+Epoch 016 summary | lr 0.00100 | train loss 0.2167 | train acc 92.69% | test loss 0.3151 | test acc 89.48%
+New best model found: 89.48% (model saving disabled)
+Epoch 017 | batch 0100 | loss 0.1985 | acc 93.20%
+Epoch 017 | batch 0200 | loss 0.2038 | acc 93.05%
+Epoch 017 | batch 0300 | loss 0.2064 | acc 92.93%
+Epoch 017 summary | lr 0.00100 | train loss 0.2068 | train acc 92.92% | test loss 0.3101 | test acc 89.62%
+New best model found: 89.62% (model saving disabled)
+Epoch 018 | batch 0100 | loss 0.2010 | acc 93.23%
+Epoch 018 | batch 0200 | loss 0.2019 | acc 93.09%
+Epoch 018 | batch 0300 | loss 0.1984 | acc 93.21%
+Epoch 018 summary | lr 0.00100 | train loss 0.1999 | train acc 93.14% | test loss 0.3104 | test acc 89.51%
+Epoch 019 | batch 0100 | loss 0.1945 | acc 93.32%
+Epoch 019 | batch 0200 | loss 0.1965 | acc 93.44%
+Epoch 019 | batch 0300 | loss 0.1957 | acc 93.47%
+Epoch 019 summary | lr 0.00100 | train loss 0.1957 | train acc 93.40% | test loss 0.3081 | test acc 89.70%
+New best model found: 89.70% (model saving disabled)
+Epoch 020 | batch 0100 | loss 0.1914 | acc 93.70%
+Epoch 020 | batch 0200 | loss 0.1896 | acc 93.68%
+Epoch 020 | batch 0300 | loss 0.1898 | acc 93.61%
+Epoch 020 summary | lr 0.00100 | train loss 0.1897 | train acc 93.59% | test loss 0.3137 | test acc 89.58%
+
+Best test accuracy: 89.70%
+
+Per-class accuracy:
+plane:  91.90% (919/1000)
+  car:  96.40% (964/1000)
+ bird:  82.60% (826/1000)
+  cat:  75.60% (756/1000)
+ deer:  92.00% (920/1000)
+  dog:  84.30% (843/1000)
+ frog:  92.40% (924/1000)
+horse:  92.10% (921/1000)
+ ship:  94.30% (943/1000)
+truck:  94.20% (942/1000)
+Saved logs to: results/historical/resnet34_log.csv
+Saved per-class result to: results/historical/resnet34_per_class.csv

@@ -1,0 +1,100 @@
+{
+  "scope": "All public component files except this self-referential manifest",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 83,
+      "sha256": "580c8ebf8b32ea2e8490415fe30f4ec4af13c23e8c2dd6b0885fda3a4465177f"
+    },
+    {
+      "path": "docs/DATA_CONTRACT.md",
+      "bytes": 2113,
+      "sha256": "5c8022c93ae4f155f627f029d15fe30ef2fac565a35d3aabfdb4b3d59d0c5e6d"
+    },
+    {
+      "path": "docs/EXPERIMENTS.md",
+      "bytes": 2717,
+      "sha256": "13eaf219721232e96dec73476f605df19c918c03166489059e30d6f7cec4519d"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 2534,
+      "sha256": "ab60661813b9ae9954318fefda7f00d8a3c40f53309ece18210f54fc9305046a"
+    },
+    {
+      "path": "docs/SOURCE_MANIFEST.json",
+      "bytes": 4296,
+      "sha256": "e62964fe6cef3e60b0bc5652d45dba89d70b5c3a04eb6694e5642268e65d9f86"
+    },
+    {
+      "path": "docs/VALIDATION.json",
+      "bytes": 648,
+      "sha256": "154c96e2352164d1410e4dd5adc68cbcbbc1b8b05b62876d2d3953fd5001d1a2"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 1765,
+      "sha256": "20c8b015180c683e76a380fbba0fc0c9cafb23840a1ec846429f5b128185d520"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2645,
+      "sha256": "df1703af13b07d6ca7e7a74fa1678603a4a47d4b7707dd22c9606cd6524382ea"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 46,
+      "sha256": "f26bf479efc276c3b4a5006a78104fe8985da9e123bb0ed485c939cfc34c4502"
+    },
+    {
+      "path": "tests/smoke.py",
+      "bytes": 9121,
+      "sha256": "4b8a93daa2afd2cdc63df339a4a8fa144e7bc071118756d9ab97428f90ee1d9d"
+    },
+    {
+      "path": "work1/bayes_decision_boundary1.py",
+      "bytes": 7906,
+      "sha256": "8467553c14a610c65f2f01a5df3e37bd49047f1ed0d4cdfe927595e035ee8975"
+    },
+    {
+      "path": "work2/bayes_nemo.py",
+      "bytes": 19312,
+      "sha256": "5191645110177cc8e1deeaea9a08041fb8f87dfafb3c6c0e99cedb7ff647ff7f"
+    },
+    {
+      "path": "work3/task3_2_1v0.py",
+      "bytes": 9300,
+      "sha256": "d4e33e3165dcff2b6a6ba95e6a0b0551fc8d0b5da3a103f9ee18cfaf5a5377b3"
+    },
+    {
+      "path": "work3/task3_2_2v1.py",
+      "bytes": 9705,
+      "sha256": "dc843829d51d19df1debcffbe156fd3e808b9933a9f82d7692663164ac7aab60"
+    },
+    {
+      "path": "work3/test3_1.py",
+      "bytes": 9199,
+      "sha256": "f1a74d779d62670febdf8a7e7f0d6cdfab32f35dd8d75a1812bf2f530d67d2b1"
+    },
+    {
+      "path": "work3/test3_4.py",
+      "bytes": 12576,
+      "sha256": "81f73e6429372a7f469fa3089386480f3ec06c8c6bc44ba71a8e9c1f95013a22"
+    },
+    {
+      "path": "work3/test3_5.py",
+      "bytes": 15339,
+      "sha256": "2a507ef27962128ca81e6f5a004be37eeb8608d5f80d5eb0a3e6750bee6b2a0a"
+    },
+    {
+      "path": "work3/test3_LBP.py",
+      "bytes": 21325,
+      "sha256": "d8e1acac3d3a75dd2af66b12f1aa3856a5e9f129d1f3d4ec1dad166511f26362"
+    },
+    {
+      "path": "work3/test3_svm_utils.py",
+      "bytes": 8157,
+      "sha256": "3c925a51cce34b7bbc8894581a3df03060cc1e3fc5c094a4d4e62aeabe6dd4d9"
+    }
+  ]
+}

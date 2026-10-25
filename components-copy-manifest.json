@@ -1,0 +1,376 @@
+{
+  "copied_files": [
+    {
+      "component": "cifar10",
+      "file": "cifar10/.gitignore",
+      "sha256": "dc7be9dcaa9df9f40ead08fc9c35ac716592a45eea4c97936e2810129b617289",
+      "bytes": 92
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/cifar10_multi.py",
+      "sha256": "c83c3b72a08344b583556ca3a442bcf1f76ed6b2f77f2b812e4832ced3d7d605",
+      "bytes": 12778
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/docs/METHOD.md",
+      "sha256": "cd3586a41e734b95f2fa8c6e4e10da0ed274821313223ed220ca06fc80fe461e",
+      "bytes": 1550
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/docs/PROVENANCE.md",
+      "sha256": "ba5b86c3b562fd974d12895ec7f3d34d81723ce8e0a10c60257c33a309c2811c",
+      "bytes": 1929
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/docs/RESULTS.md",
+      "sha256": "4a178bfc522df720fc2e2d10030f8bb1a30feee10074bfc046c06a4b78c1a8e8",
+      "bytes": 2603
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/docs/VALIDATION.md",
+      "sha256": "6d976ce0b42947944208e1d85f1d99b35f0773d880a4d47e6b9b7cdb4cce3a0f",
+      "bytes": 1843
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/experiments/cifar10_homework.py",
+      "sha256": "054496b5ab41f42756b464c81d0bd257e300690c1ca50c8cad87201ef95056aa",
+      "bytes": 7914
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/experiments/resnet34_cifar10_demo.py",
+      "sha256": "4a13583aeede3175b0e62b7da48a0c9d9e93476b4685fd47769d8d092abeb029",
+      "bytes": 14219
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/experiments/resnet_cifar10_demo.py",
+      "sha256": "6fe7ca5a900f43b5e73b0d277047e6e75f044bf9aaf57e715514b6faf6297624",
+      "bytes": 20731
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/experiments/vgg16_cifar10_demo.py",
+      "sha256": "e9815422f1467450530c2e67df362b9a5b841640b7ecccdbf3ecdbe9df73fb95",
+      "bytes": 13951
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/README.md",
+      "sha256": "f8539c3da3ecea401bf233e1c6b70f1212225f53820009b732ab2cb7e68fba5c",
+      "bytes": 3563
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/resnet34_log.csv",
+      "sha256": "98e4870adc792ea83fb1f9a1932cd1a0516ee1d03e9c1b82a8a31105de67bb28",
+      "bytes": 1481
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/resnet34_per_class.csv",
+      "sha256": "3285f8efd10cf1da4c1c0e7c3bee08de2996f6675137cadfb40f90b9d5d32ce0",
+      "bytes": 269
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/resnet34_stdout.log",
+      "sha256": "607e36025e48fbece3268244467a9fb942c29af08755987dc8b71282a3455508",
+      "bytes": 7455
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/vgg16_log.csv",
+      "sha256": "07fd196e2ec03618dbaad7bbe2bde90c86193f8694543241566a5e444b9effc6",
+      "bytes": 1512
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/vgg16_per_class.csv",
+      "sha256": "77999d115efe2a69874a183b1dc0ed32df60a050473c633774b20c3d4f51c9b6",
+      "bytes": 243
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/results/historical/vgg16_stdout.log",
+      "sha256": "ea13879ce786ece00f8990eadf4ca92c8d48f4b422a41fef68a5ecb3036e7a68",
+      "bytes": 7265
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/SOURCE_HASHES.md",
+      "sha256": "0dbb00660523995a5a7cb89494295880e947a6cd73965f03de1ff524cb9bc64b",
+      "bytes": 1303
+    },
+    {
+      "component": "cifar10",
+      "file": "cifar10/tools/smoke_test.py",
+      "sha256": "826b6e816f5d0bcbb4ef570077e7c7487056d3578f9b1033e9f78f612310412f",
+      "bytes": 3738
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/.gitignore",
+      "sha256": "6b583033bd01593aa64288bc17e53fc3ac4d4f2c39afde85a7a78ada3eb492be",
+      "bytes": 58
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/assets/synthetic/1.jpg",
+      "sha256": "76fe66840380ea435e3e02e4981bb7278005b50979d0e6c527fe8cbecc4cd78f",
+      "bytes": 100077
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/assets/synthetic/2.jpg",
+      "sha256": "613f3decdab8b70e7660333d687bb55b744083c94a632b86af4010c509d5ef2a",
+      "bytes": 100061
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/assets/synthetic/3.jpg",
+      "sha256": "8dd797533fa1885392e864fde940024969b5cd28152544f429aa193bd521ccd9",
+      "bytes": 99777
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/assets/synthetic/result_crop.jpg",
+      "sha256": "2b775498e45ba47bbd6d109928fd833c49605c756f40e59e5d7a4df3e204b47d",
+      "bytes": 114741
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/assets/synthetic/result_full.jpg",
+      "sha256": "d944177c8df43de5d14504e6d4e1f0286c4af1b266ee6a8ce8134dfac219d0ff",
+      "bytes": 115525
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/CV_work1.py",
+      "sha256": "03191db60fb7d2859ea1ba953a94173315bcec3b5fffe457c1b07b17f69976f2",
+      "bytes": 8780
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/ARCHITECTURE.md",
+      "sha256": "c08d6ee7257e66bc104a3d0a874d6acc1f07400312ec6c734cc33550c810d9ef",
+      "bytes": 2930
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/MATERIALS.md",
+      "sha256": "58c8d6ffac4269acff838f140f0934e3b9f68ad1c0218275b1c8e1ff93f7e50d",
+      "bytes": 1514
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/PROVENANCE.md",
+      "sha256": "e3a5f513e400256a7dfdb433cc1a5143a86d64c0cab88ee246542e276fce6a31",
+      "bytes": 2253
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/RESULTS.md",
+      "sha256": "e46cdb3ef2782274341f1b7839e4dc0fbca869d4a48b8e968d2d8a7289efcb9d",
+      "bytes": 1595
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/RUNNING.md",
+      "sha256": "3c88ee0136b6f104f47a38199871476752ef56ec652ef2d3155d4ce3c35b6837",
+      "bytes": 1915
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/smoke_result.json",
+      "sha256": "0235d277f9f2dd8e83b42f36fb29c392c693d8ae37961b4a2d91f2c2e836aa60",
+      "bytes": 1294
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/source_manifest.json",
+      "sha256": "54b87086b979dd5fac137065d82b46c6d6e5b26dec67477e01738daffc704e82",
+      "bytes": 1809
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/docs/VALIDATION.md",
+      "sha256": "042eb89265a825e675d13bf1224f567dcb74708f641d2f7c14b4bf610395cd05",
+      "bytes": 1669
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/README.md",
+      "sha256": "b15e2a90c675d960fe016bd5284076e50a63191feeed77fc15cdbe5f66fde479",
+      "bytes": 2757
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/reference/CV_work1_0.py",
+      "sha256": "25fac3a69b09c3d374872ece32667f3e170f475ca6d322de88bb2ba64d08153c",
+      "bytes": 6110
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/reference/CV_work1_rest.py",
+      "sha256": "fde4ddb8ec075ba623ece4d8e13dc0b12c355ad7c9e265ddd29af7aba12c93a0",
+      "bytes": 3192
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/reference/Pasted_code_commented.py",
+      "sha256": "e391f557419e95ad12b397ed9f17d0d6fa8dc63f58e1d7f5b287c6dd5fae8bad",
+      "bytes": 17393
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/requirements.txt",
+      "sha256": "e5f67e7a14243b2250ac33cd791b160a9da1ca1bd8e4fdb939513aa1752a1b4f",
+      "bytes": 40
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/run_panorama.py",
+      "sha256": "b5ea1899c51133dabaa530219fe3c6bf4674f09a79b3e71a929ed9bf235be235",
+      "bytes": 1697
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/tests/smoke.py",
+      "sha256": "dc7f207c14d7c31ef459b50e87fa1573b86e82f9e5f9ce108424ea7c2fb6f4bd",
+      "bytes": 6624
+    },
+    {
+      "component": "panorama",
+      "file": "panorama/THIRD_PARTY_NOTICES.md",
+      "sha256": "eb1a8d21524f9f58291934a560fcbed06c63724c2bee98de48f2b2a069fa0679",
+      "bytes": 1456
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/.gitignore",
+      "sha256": "580c8ebf8b32ea2e8490415fe30f4ec4af13c23e8c2dd6b0885fda3a4465177f",
+      "bytes": 83
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/DATA_CONTRACT.md",
+      "sha256": "5c8022c93ae4f155f627f029d15fe30ef2fac565a35d3aabfdb4b3d59d0c5e6d",
+      "bytes": 2113
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/EXPERIMENTS.md",
+      "sha256": "13eaf219721232e96dec73476f605df19c918c03166489059e30d6f7cec4519d",
+      "bytes": 2717
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/PROVENANCE.md",
+      "sha256": "ab60661813b9ae9954318fefda7f00d8a3c40f53309ece18210f54fc9305046a",
+      "bytes": 2534
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/SHA256SUMS.json",
+      "sha256": "c3927df2b52da4b702f5a360f037922a80e5ab32d1f24878621990f5d7a06819",
+      "bytes": 3015
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/SOURCE_MANIFEST.json",
+      "sha256": "e62964fe6cef3e60b0bc5652d45dba89d70b5c3a04eb6694e5642268e65d9f86",
+      "bytes": 4296
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/VALIDATION.json",
+      "sha256": "154c96e2352164d1410e4dd5adc68cbcbbc1b8b05b62876d2d3953fd5001d1a2",
+      "bytes": 648
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/docs/VALIDATION.md",
+      "sha256": "20c8b015180c683e76a380fbba0fc0c9cafb23840a1ec846429f5b128185d520",
+      "bytes": 1765
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/README.md",
+      "sha256": "df1703af13b07d6ca7e7a74fa1678603a4a47d4b7707dd22c9606cd6524382ea",
+      "bytes": 2645
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/requirements.txt",
+      "sha256": "f26bf479efc276c3b4a5006a78104fe8985da9e123bb0ed485c939cfc34c4502",
+      "bytes": 46
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/tests/smoke.py",
+      "sha256": "4b8a93daa2afd2cdc63df339a4a8fa144e7bc071118756d9ab97428f90ee1d9d",
+      "bytes": 9121
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work1/bayes_decision_boundary1.py",
+      "sha256": "8467553c14a610c65f2f01a5df3e37bd49047f1ed0d4cdfe927595e035ee8975",
+      "bytes": 7906
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work2/bayes_nemo.py",
+      "sha256": "5191645110177cc8e1deeaea9a08041fb8f87dfafb3c6c0e99cedb7ff647ff7f",
+      "bytes": 19312
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/task3_2_1v0.py",
+      "sha256": "d4e33e3165dcff2b6a6ba95e6a0b0551fc8d0b5da3a103f9ee18cfaf5a5377b3",
+      "bytes": 9300
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/task3_2_2v1.py",
+      "sha256": "dc843829d51d19df1debcffbe156fd3e808b9933a9f82d7692663164ac7aab60",
+      "bytes": 9705
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/test3_1.py",
+      "sha256": "f1a74d779d62670febdf8a7e7f0d6cdfab32f35dd8d75a1812bf2f530d67d2b1",
+      "bytes": 9199
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/test3_4.py",
+      "sha256": "81f73e6429372a7f469fa3089386480f3ec06c8c6bc44ba71a8e9c1f95013a22",
+      "bytes": 12576
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/test3_5.py",
+      "sha256": "2a507ef27962128ca81e6f5a004be37eeb8608d5f80d5eb0a3e6750bee6b2a0a",
+      "bytes": 15339
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/test3_LBP.py",
+      "sha256": "d8e1acac3d3a75dd2af66b12f1aa3856a5e9f129d1f3d4ec1dad166511f26362",
+      "bytes": 21325
+    },
+    {
+      "component": "pattern_recognition",
+      "file": "pattern-recognition/work3/test3_svm_utils.py",
+      "sha256": "3c925a51cce34b7bbc8894581a3df03060cc1e3fc5c094a4d4e62aeabe6dd4d9",
+      "bytes": 8157
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "tests": 12,
+  "scope": "Synthetic CPU regression only; not face/Nemo benchmark reproduction",
+  "python": "3.13.9",
+  "numpy": "2.3.5",
+  "circle_train": 60,
+  "circle_heldout": 40,
+  "circle_heldout_accuracy": 1.0,
+  "python_sources": 10,
+  "patch_train": 16,
+  "patch_heldout": 8,
+  "patch_heldout_accuracy": 1.0,
+  "pixel_training_samples": 48,
+  "dependencies": {
+    "numpy": "2.3.5",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.6",
+    "Pillow": "12.0.0",
+    "libsvm-official": "3.37.0"
+  },
+  "command": "python -B tests/smoke.py",
+  "verified_on": "2026-10-25",
+  "original_course_accuracy_reproduced": false
+}

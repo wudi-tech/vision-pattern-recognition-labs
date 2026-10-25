@@ -1,0 +1,75 @@
+{
+  "status": "PASS",
+  "scope": "synthetic CPU smoke, not a performance benchmark",
+  "python": "3.13.9",
+  "opencv": "4.13.0",
+  "numpy": "2.3.5",
+  "seed": 20261025,
+  "input_shape_hwc": [
+    240,
+    360,
+    3
+  ],
+  "core_full_shape_hwc": [
+    242,
+    602,
+    3
+  ],
+  "core_crop_shape_hwc": [
+    240,
+    600,
+    3
+  ],
+  "pairs": [
+    {
+      "pair": "A-B",
+      "nf": 647,
+      "ni": 641,
+      "model_score": 1.0,
+      "max_control_point_error_px": 0.0013864731881767511
+    },
+    {
+      "pair": "C-B",
+      "nf": 702,
+      "ni": 697,
+      "model_score": 1.0,
+      "max_control_point_error_px": 0.0026631930377334356
+    }
+  ],
+  "cli_shapes_hwc": {
+    "result_crop.jpg": [
+      213,
+      534,
+      3
+    ],
+    "result_full.jpg": [
+      215,
+      534,
+      3
+    ]
+  },
+  "reference_shapes_hwc": {
+    "CV_work1_rest.py": [
+      242,
+      602,
+      3
+    ],
+    "CV_work1_0.py": [
+      240,
+      600,
+      3
+    ],
+    "Pasted_code_commented.py": [
+      240,
+      600,
+      3
+    ]
+  },
+  "checks": [
+    "known homographies within 2 px",
+    "real warp/feather/crop",
+    "blank-image rejection",
+    "CLI saved both outputs with resize",
+    "missing-input rejection"
+  ]
+}

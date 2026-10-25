@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+outputs/
+data/
+*.mat
+*.npz
+*.bmp
+*.pt
+*.pth
+.idea/
+.vscode/

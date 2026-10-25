@@ -1,0 +1,57 @@
+{
+  "hash_algorithm": "SHA-256",
+  "sources": [
+    {
+      "source_name": "CV_work1.py",
+      "public_path": "CV_work1.py",
+      "bytes": 8780,
+      "sha256": "03191db60fb7d2859ea1ba953a94173315bcec3b5fffe457c1b07b17f69976f2",
+      "byte_identical": true
+    },
+    {
+      "source_name": "CV_work1_rest.py",
+      "public_path": "reference/CV_work1_rest.py",
+      "bytes": 3192,
+      "sha256": "fde4ddb8ec075ba623ece4d8e13dc0b12c355ad7c9e265ddd29af7aba12c93a0",
+      "byte_identical": true
+    },
+    {
+      "source_name": "CV_work1_0.py",
+      "public_path": "reference/CV_work1_0.py",
+      "bytes": 6110,
+      "sha256": "25fac3a69b09c3d374872ece32667f3e170f475ca6d322de88bb2ba64d08153c",
+      "byte_identical": true
+    },
+    {
+      "source_name": "Pasted_code_commented.py",
+      "public_path": "reference/Pasted_code_commented.py",
+      "bytes": 17393,
+      "sha256": "e391f557419e95ad12b397ed9f17d0d6fa8dc63f58e1d7f5b287c6dd5fae8bad",
+      "byte_identical": true
+    }
+  ],
+  "local_archive_evidence": [
+    {
+      "archive_alias": "local-submission-1",
+      "archive_sha256": "fc4eb4f143683e0af8727e746c4fef04bc622e65ff3a3c2bcbcb9fc76bae05bb",
+      "python_members": [
+        {
+          "member": "CV_work1.py",
+          "sha256": "03191db60fb7d2859ea1ba953a94173315bcec3b5fffe457c1b07b17f69976f2",
+          "matches_final": true
+        }
+      ]
+    },
+    {
+      "archive_alias": "local-submission-2",
+      "archive_sha256": "49c3a4bc6c5f11e3bfc5e1f5e1e0435bc5368a65faac7a25b253fc170ba40fb7",
+      "python_members": [
+        {
+          "member": "CV_work1.py",
+          "sha256": "03191db60fb7d2859ea1ba953a94173315bcec3b5fffe457c1b07b17f69976f2",
+          "matches_final": true
+        }
+      ]
+    }
+  ]
+}

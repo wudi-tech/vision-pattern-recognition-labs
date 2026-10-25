@@ -1,0 +1,89 @@
+[
+  {
+    "source_relative": "work1/bayes_decision_boundary1.py",
+    "public_path": "work1/bayes_decision_boundary1.py",
+    "source_sha256": "9f45b8d6851ed115de1acad87df46be53a9968abd1dece09bcb2fd63395001d2",
+    "public_sha256": "8467553c14a610c65f2f01a5df3e37bd49047f1ed0d4cdfe927595e035ee8975",
+    "changes": [
+      "UTF-8/LF archival copy; code logic unchanged."
+    ]
+  },
+  {
+    "source_relative": "work2/bayes_nemo.py",
+    "public_path": "work2/bayes_nemo.py",
+    "source_sha256": "8255bb98fe9dad80b96505c19c849ca67541578c6305b0865ec64a15f2fb13cc",
+    "public_sha256": "5191645110177cc8e1deeaea9a08041fb8f87dfafb3c6c0e99cedb7ff647ff7f",
+    "changes": [
+      "Replace machine-specific data directory with explicit --data-dir and --output-dir; imports do not access private data.",
+      "Fix kNN kth=k-1 when k reaches training size; reject invalid k/empty training set and resolve vote ties to +1 instead of unsupported label 0."
+    ]
+  },
+  {
+    "source_relative": "work3/task3_2_1v0.py",
+    "public_path": "work3/task3_2_1v0.py",
+    "source_sha256": "e91f3a7f4d5497ee0ce5dfc292903b38dc83d659d4e8d81754e88c23f3b6b8d0",
+    "public_sha256": "d4e33e3165dcff2b6a6ba95e6a0b0551fc8d0b5da3a103f9ee18cfaf5a5377b3",
+    "changes": [
+      "UTF-8/LF archival copy; code logic unchanged."
+    ]
+  },
+  {
+    "source_relative": "work3/task3_2_2v1.py",
+    "public_path": "work3/task3_2_2v1.py",
+    "source_sha256": "993b2d303fbbc9f5be991916adc0c0081db9ee5e994a9b02d7f276de4d44e217",
+    "public_sha256": "dc843829d51d19df1debcffbe156fd3e808b9933a9f82d7692663164ac7aab60",
+    "changes": [
+      "UTF-8/LF archival copy; code logic unchanged."
+    ]
+  },
+  {
+    "source_relative": "work3/test3_1.py",
+    "public_path": "work3/test3_1.py",
+    "source_sha256": "92980b69f0b9dcbc2038121111004554404b41f122d471dd38ffe0e3fb636ce6",
+    "public_sha256": "f1a74d779d62670febdf8a7e7f0d6cdfab32f35dd8d75a1812bf2f530d67d2b1",
+    "changes": [
+      "Add explicit --data-dir/--output-dir to historical main; feature/model/CV math unchanged.",
+      "Qualify guide-compliance comment: scaling before internal CV leaks fold statistics; no training-math change."
+    ]
+  },
+  {
+    "source_relative": "work3/test3_4.py",
+    "public_path": "work3/test3_4.py",
+    "source_sha256": "0d4e8a8b99700494dd4e454d478a1bcfa91691a2ca459c308175f3a5e05d4fa6",
+    "public_sha256": "81f73e6429372a7f469fa3089386480f3ec06c8c6bc44ba71a8e9c1f95013a22",
+    "changes": [
+      "Add explicit --data-dir/--output-dir to historical main; feature/model/CV math unchanged.",
+      "Label historical metric comparisons and causal explanations as unverified; correct CV/grid comments to actual defaults (5 folds, step .25, span 1); no training-math change."
+    ]
+  },
+  {
+    "source_relative": "work3/test3_5.py",
+    "public_path": "work3/test3_5.py",
+    "source_sha256": "77c2d30eccb4de3e33ef9fee406a4bc687460b4998f5881e330b55ebe6cf1f51",
+    "public_sha256": "2a507ef27962128ca81e6f5a004be37eeb8608d5f80d5eb0a3e6750bee6b2a0a",
+    "changes": [
+      "Add explicit --data-dir/--output-dir to historical main; feature/model/CV math unchanged.",
+      "Narrow LBP invariance comments to a shared strictly monotonic gray transform; no feature-math change."
+    ]
+  },
+  {
+    "source_relative": "work3/test3_LBP.py",
+    "public_path": "work3/test3_LBP.py",
+    "source_sha256": "eb52f8ac3a8d1854fd4316f406ece94c2b6b9caf56055e91ba5ffab55521c4b5",
+    "public_sha256": "d8e1acac3d3a75dd2af66b12f1aa3856a5e9f129d1f3d4ec1dad166511f26362",
+    "changes": [
+      "Add explicit --data-dir/--output-dir to historical main; feature/model/CV math unchanged.",
+      "Correct comments: method changes do not imply accuracy gains; coordinate-wise MinMax does not preserve LBP comparisons; historical pre-CV scaling can leak fold statistics.",
+      "Narrow LBP invariance comments to a shared strictly monotonic gray transform; no feature-math change."
+    ]
+  },
+  {
+    "source_relative": "work3/test3_svm_utils.py",
+    "public_path": "work3/test3_svm_utils.py",
+    "source_sha256": "3c925a51cce34b7bbc8894581a3df03060cc1e3fc5c094a4d4e62aeabe6dd4d9",
+    "public_sha256": "3c925a51cce34b7bbc8894581a3df03060cc1e3fc5c094a4d4e62aeabe6dd4d9",
+    "changes": [
+      "UTF-8/LF archival copy; code logic unchanged."
+    ]
+  }
+]

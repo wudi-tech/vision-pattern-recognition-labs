@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+*.pth
+*.pt
+confusion_matrix/
+experiments/results/
